@@ -1,7 +1,7 @@
 # InstagramBot
 Very Simple Follow/Unfollow Instagram Bot
 
-#Warning: Use at your own risk. If you do, you will get banned.
+# Warning: Use at your own risk. If you do, you will get banned.
 
 This simple IG bot follows accounts based on some keywords that it looks for in name username and bio of the accounts. 
 
