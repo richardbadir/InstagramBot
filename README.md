@@ -1,4 +1,4 @@
-#InstagramBot and DMS
+# InstagramBot and DMS
 A simple Instagram bot and DM Notifier
 
 # InstagramBot
@@ -12,7 +12,7 @@ It keeps track of the accounts it follows, and then the unfollow.py script can b
 
 I initially made this bot to help my friend's brand grow (shoutout cassowear).
 
-#DMS Notifications
+# DMS Notifications
 
 Very simple script to send an email if you have instagram DMs. Need to allow access to less secure apps in your gmail account.
 
