@@ -26,6 +26,6 @@ Could use AWS to have this script run once an hour or so.
 
 Could turn this into a website to sign up for notifications using node.js
 
-(I probably will not be implementing these features, because I decided tow work on a differetn project since I will probably not use this DM notifier)
+(I probably will not be implementing these features, because I decided to work on a different project since I will probably not use this DM notifier)
 
 
